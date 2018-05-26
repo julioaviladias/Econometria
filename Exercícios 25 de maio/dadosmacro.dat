@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 25 19:05:09 2018
+
+@author: Asus
+"""
+
+#Entrada
+consumoagregado=100000
+
+#Saída
+print("O consumo agregado é de", consumoagregado)
